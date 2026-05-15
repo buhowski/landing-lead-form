@@ -1,7 +1,7 @@
 # Front-End Showcase
 
-Live Demo: [https://rgbweb-showcase.vercel.app/](https://rgbweb-showcase.vercel.app/)
-Form data sent directly to TG Bot: [https://t.me/TestFormDataShowcase](https://t.me/TestFormDataShowcase)
+- Live Demo: [https://rgbweb-showcase.vercel.app/](https://rgbweb-showcase.vercel.app/)
+- Form data sent directly to TG Bot: [https://t.me/TestFormDataShowcase](https://t.me/TestFormDataShowcase)
 
 ## Prerequisites
 
