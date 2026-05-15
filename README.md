@@ -5,7 +5,7 @@
 
 ## Prerequisites
 
-- Node.js: >=20.x
+- Node.js: = 16-20
 
 ## Quick Start
 
@@ -22,6 +22,7 @@ npm run build
 
 ## Structure
 
+```
 app/
 ├── css/             # Compiled and minified styles
 ├── fonts/           # Project fonts
@@ -33,3 +34,4 @@ app/
 ├── styles/          # SCSS source files
 ├── utils/           # Helper scripts & JSONs
 └── index.html       # Main entry point
+```
