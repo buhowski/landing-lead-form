@@ -1,11 +1,11 @@
 # Front-End Showcase
 
-- Live Demo: [https://rgbweb-showcase.vercel.app/](https://rgbweb-showcase.vercel.app/)
+- Live Demo: [https://rgbweb-showcase.vercel.app](https://rgbweb-showcase.vercel.app)
 - Form data sent directly to TG Bot: [https://t.me/TestFormDataShowcase](https://t.me/TestFormDataShowcase)
 
 ## Prerequisites
 
-- Node.js: = 16-20
+- Node.js = 16-20
 
 ## Quick Start
 
