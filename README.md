@@ -1,7 +1,9 @@
 # Front-End Showcase
 
-- Live Demo: [https://landing-form-showcase.vercel.app](https://landing-form-showcase.vercel.app)
-- Form data sent directly to TG Bot: [https://t.me/TestFormDataShowcase](https://t.me/TestFormDataShowcase)
+Responsive landing page with client-side form validation and Fetch API integration, sending submissions directly to a Telegram Bot.
+
+- Live: [https://landing-form-showcase.vercel.app](https://landing-form-showcase.vercel.app)
+- Telegram Bot receiving form data: [https://t.me/TestFormDataShowcase](https://t.me/TestFormDataShowcase)
 
 ## Prerequisites
 
