@@ -1,4 +1,4 @@
-# Landing Page with Lead Form
+# Lead Form Landing Page
 
 Responsive site with client-side form validation. Submissions go to a Telegram Bot via Fetch API.
 
