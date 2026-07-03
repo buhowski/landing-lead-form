@@ -1,17 +1,17 @@
-# Front-End Showcase
+# Landing Page with Lead Form
 
-Responsive landing page with client-side form validation and Fetch API integration, sending submissions directly to a Telegram Bot.
+Responsive site with client-side form validation. Submissions go to a Telegram Bot via Fetch API.
 
-- Live: [https://landing-form-showcase.vercel.app](https://landing-form-showcase.vercel.app)
-- Telegram Bot receiving form data: [https://t.me/TestFormDataShowcase](https://t.me/TestFormDataShowcase)
+Live: https://landing-lead-form.vercel.app
+Bot Receiving Data: https://t.me/TestFormDataShowcase
 
 ## Prerequisites
 
-- Node.js = 16-20
+Node.js 20
 
 ## Quick Start
 
-```
+```bash
 # Install dependencies
 npm i
 
@@ -24,16 +24,15 @@ npm run build
 
 ## Structure
 
-```
+```bash
 app/
 ├── css/             # Compiled and minified styles
 ├── fonts/           # Project fonts
-├── images/          
-│   ├── src/         # Source images
-│   └── dist/        # Optimized images for production
+├── images/          # Project images
 ├── js/              # Webpack-bundled scripts
 ├── parts/           # HTML components (SSI)
-├── styles/          # SCSS source files
+├── styles/sass/     # SCSS source files
 ├── utils/           # Helper scripts & JSONs
 └── index.html       # Main entry point
+gulpfile.js          # Build config
 ```
