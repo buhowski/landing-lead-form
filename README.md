@@ -1,6 +1,6 @@
 # Responsive Lead Capture Landing Page
 
-Client-side form validation. Submissions go to a Telegram Bot via Fetch API.
+Submissions go to a Telegram Bot via Fetch API.
 
 Live: https://lead-form-landing.vercel.app
 
