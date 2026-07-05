@@ -2,8 +2,8 @@
 
 Submissions go to a Telegram Bot via Fetch API.
 
-* **Live:** [lead-form-landing.vercel.app](https://lead-form-landing.vercel.app)
-* **Bot Receiving Data:** [@LeadFormData](https://t.me/LeadFormData)
+- Live: https://lead-form-landing.vercel.app
+- Bot Receiving Data: https://t.me/LeadFormData
 
 ## Prerequisites
 
