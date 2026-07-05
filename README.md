@@ -2,9 +2,9 @@
 
 Responsive site with client-side form validation. Submissions go to a Telegram Bot via Fetch API.
 
-Live: https://landing-lead-form.vercel.app
+Live: https://lead-form-landing.vercel.app
 
-Bot Receiving Data: https://t.me/TestFormDataShowcase
+Bot Receiving Data: https://t.me/LeadFormData
 
 ## Prerequisites
 
